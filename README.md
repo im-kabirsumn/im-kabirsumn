@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and Search Engine Optimization
 - 💞️ I’m looking to collaborate with other Developers and Entrepreneurs 
 - 📫 How to reach me https://www.linkedin.com/in/kabir-sumn/
-- ⚡ Fun fact: While I'm watching any movie or drama, Inner Me: how does the villain know this? My brain screams at me: DIRECTOR!! it's just a show!!
+- ⚡ Fun fact: Human life isn't constant, it has thousands of variations. 
 
 <!---
 im-kabirsumn/im-kabirsumn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
