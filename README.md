@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and Search Engine Optimization
 - 💞️ I’m looking to collaborate with other Developers and Entrepreneurs 
 - 📫 How to reach me https://www.linkedin.com/in/kabir-sumn/
-- ⚡ Fun fact: Human life isn't constant, it has thousands of variations. 
+- ⚡ Fun fact: People judge you but don't wake you up at your stopage 
 
 <!---
 im-kabirsumn/im-kabirsumn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
